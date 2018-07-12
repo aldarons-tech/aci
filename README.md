@@ -1,5 +1,2 @@
-# aci
-Compress, decompress, encode, and decode in almost any format.
-Based off ffmpeg.
-
-## 
+# Multimedia Format Interface
+Compress, decompress, encode, and decode in almost any format.  Based off libavcodec.
