@@ -1,2 +1,5 @@
 # aci
-Aldaron's Codec Interface (A.C.I.) is a rust library for compressing / decompressing data, and encoding / decoding data.
+Compress, decompress, encode, and decode in almost any format.
+Based off ffmpeg.
+
+## 
